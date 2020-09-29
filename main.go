@@ -6,7 +6,7 @@ func main() {
 	var x float64
 	fmt.Scan(&x)
 	var e float64
-	e = 0
+	e = 1
 	var op float64
 	var n2 float64
 	var n float64
